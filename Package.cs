@@ -22,9 +22,7 @@ namespace Package_Distribution_App
         public string DestinationCity
         {
             get { return _destinationCity; }
-            set { 
-                _destinationCity = value;
-                }
+            set { _destinationCity = value; }
 
         }
         public string DestinationState
